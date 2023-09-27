@@ -1,0 +1,12 @@
+
+
+/* HtmlEditor.css */
+
+/* Establece un fondo blanco para el editor */
+.rdw-editor-main {
+    background-color: white;
+    font-style: normal;
+    color: black; /* Texto negro */
+    
+  }
+  
