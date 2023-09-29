@@ -1,6 +1,7 @@
-import { DaEditor } from "./DaEditor";
+
 import {DataField} from "./DataField"
 import logo from './logo.svg';
+import {TemplateHomePage} from "./TemplateHomePage"
 
 // import './App.css';
 
@@ -12,7 +13,7 @@ function App() {
         
         <DataField></DataField>
         
-
+        <TemplateHomePage></TemplateHomePage>
         
         {/* <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
